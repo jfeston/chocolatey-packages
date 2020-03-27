@@ -1,0 +1,13 @@
+# binaries
+*.nupkg
+*.exe
+*.jar
+*.zip
+
+# local files
+update_vars.ps1
+
+# update artifacts
+update_info.xml
+Update-Report.md
+Update-History.md
