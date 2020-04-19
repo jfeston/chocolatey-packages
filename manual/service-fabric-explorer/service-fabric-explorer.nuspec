@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+
+    <!-- == PACKAGE SPECIFIC SECTION == -->  
+    <id>service-fabric-explorer</id>
+    <version>18.9.2701</version>
+    <packageSourceUrl>https://github.com/jfeston/chocolatey-packages.tree/master/manual/service-fabric-explorer</packageSourceUrl>
+    <owners>Javier Feston Cardenas</owners>
+    <!-- ============================== -->
+
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <title>service-fabric-explorer (Install)</title>
+    <authors>Microsoft</authors>
+    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/service-fabric-explorer.png</iconUrl>-->
+    <tags>service-fabric-explorer service-fabric servicefabric fabric explorer</tags>
+    <summary>Service Fabric Explorer is an application for inspecting and managing cloud applications and nodes in a Microsoft Azure Service Fabric cluster</summary>
+    <description>Service Fabric Explorer is an application for inspecting and managing cloud applications and nodes in a Microsoft Azure Service Fabric cluster </description>
+    <!-- ============================== -->
+
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
