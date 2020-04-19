@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+
+    <!-- == PACKAGE SPECIFIC SECTION == -->
+    <id>nzxt</id>
+    <version>4.5.3</version>
+    <packageSourceUrl>https://github.com/jfeston/chocolatey-packages.tree/master/manual/nzxt</packageSourceUrl>
+    <owners>Javier Feston Cardenas</owners>
+    
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <title>nzxt (Install)</title>
+    <authors>NZXT</authors>
+    <tags>nzxt monitor</tags>
+    <iconUrl>https://www.nzxt.com/favicon.ico</iconUrl>
+    <summary>Manage performance, temperatures, and devices all from a single application</summary>
+    <description>Manage performance, temperatures, and devices all from a single application. NZXT CAM is fast, efficient, and easy-to-use, allowing you to control every aspect of your computer.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
