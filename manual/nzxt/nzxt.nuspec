@@ -5,7 +5,7 @@
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>nzxt</id>
     <version>4.5.3</version>
-    <packageSourceUrl>https://github.com/jfeston/chocolatey-packages.tree/master/manual/nzxt</packageSourceUrl>
+    <packageSourceUrl>https://github.com/jfeston/chocolatey-packages/tree/master/manual</packageSourceUrl>
     <owners>Javier Feston Cardenas</owners>
     
     <!-- == SOFTWARE SPECIFIC SECTION == -->
@@ -13,6 +13,7 @@
     <authors>NZXT</authors>
     <tags>nzxt monitor</tags>
     <iconUrl>https://www.nzxt.com/favicon.ico</iconUrl>
+    <projectUrl>https://www.nzxt.com/camapp</projectUrl>
     <summary>Manage performance, temperatures, and devices all from a single application</summary>
     <description>Manage performance, temperatures, and devices all from a single application. NZXT CAM is fast, efficient, and easy-to-use, allowing you to control every aspect of your computer.</description>
   </metadata>
