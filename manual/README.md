@@ -4,5 +4,7 @@ This is where you put packages that are manually kept up to date or don't requir
 
 Packages:
 
-- [`sample-package-1`](https://chocolatey.org/packages/sample-package-1)
-- [`sample-package-2`](https://chocolatey.org/packages/sample-package-2)
+- [`luminar`](https://github.com/jfeston/chocolatey-packages/tree/master/manual/luminar)
+- [`nox`](https://github.com/jfeston/chocolatey-packages/tree/master/manual/nox)
+- [`nzxt`](https://github.com/jfeston/chocolatey-packages/tree/master/manual/nzxt)
+- [`service-fabric-explorer`](https://github.com/jfeston/chocolatey-packages/tree/master/manual/service-fabric-explorer)
