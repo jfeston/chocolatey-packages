@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+
+    <!-- == PACKAGE SPECIFIC SECTION == -->
+    <id>luminar</id>
+    <version>3.2.0.5246</version>
+    <packageSourceUrl>https://github.com/jfeston/chocolatey-packages/tree/master/manual</packageSourceUrl>
+    <owners>Javier Feston Cardenas</owners>
+    <!-- ============================== -->
+
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <title>Luminar 3</title>
+    <authors>Skylum DSoftware</authors>
+    <projectUrl>https://skylum.com/fstoppers-luminar</projectUrl>
+    <tags>luminar lightroom photography</tags>
+    <summary>Photop editing app</summary>
+    <description>Luminar 3 is a full-featured photo editor for Mac and PC. It brings over 300 robust tools and features, including fast RAW support, layers, custom brush for selective editing, masking, dozens of photo filters with custom adjustments, Luminar Looks and a lot more. Luminar features advanced controls that are easy to use.</description>
+    <!-- =============================== -->      
+
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

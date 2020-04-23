@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+
+    <!-- == PACKAGE SPECIFIC SECTION == -->
+    <id>nox</id>
+    <version>6.6.0.5</version>
+    <packageSourceUrl>https://github.com/jfeston/chocolatey-packages/tree/master/manual</packageSourceUrl>
+    <owners>Javier Feston Cardenas</owners>
+    <!-- ============================== -->
+
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <title>nox (Install)</title>
+    <authors>Nox (HongKong) Limited</authors>
+    <tags>nox player noxplayer bignox</tags>
+    <projectUrl>https://www.bignox.com/</projectUrl>
+    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/nox.png</iconUrl>-->
+    <summary>NoxPlayer, the perfect Android emulator to play mobile games on PC</summary>
+    <description>Free Android emulator dedicated to bring the best experience for users to play Android games and apps on PC and Mac. Users can assign keyboard and mouse to the APK games and Apps with simple key mapping and enjoy easy access to functions like location, , adjust volume, and much more.</description>
+    <!-- =============================== -->      
+
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
