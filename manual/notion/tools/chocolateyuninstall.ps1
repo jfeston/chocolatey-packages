@@ -3,8 +3,8 @@ $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   softwareName  = 'notion*'
   fileType      = 'EXE'
-  silentArgs    = "/qn /norestart"
-  validExitCodes= @(0, 3010, 1605, 1614, 1641)
+  silentArgs    = '/S'
+  validExitCodes= @(0)
 }
 
 $uninstalled = $false
