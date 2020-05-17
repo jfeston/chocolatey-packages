@@ -13,7 +13,7 @@
     <authors>Notion Labs, Inc</authors>
     <projectUrl>https://www.notion.so/</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/jfeston/chocolatey-packages/master/icons/notion.png</iconUrl>
-    <copyright>2020</copyright>
+    <copyright>2020 Notion Labs, Inc.</copyright>
     <licenseUrl>https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://www.notion.so/Notion-editor-101-create-and-edit-68c7c67047494fdb87d50185429df93e</docsUrl>
